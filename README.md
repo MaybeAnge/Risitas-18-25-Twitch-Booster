@@ -1,12 +1,12 @@
+<p align="center">
+  <img src="https://github.com/MaybeAnge/Images/blob/main/Twitch%20Booster.png"
+</p>
 
-<img src="https://github.com/MaybeAnge/Images/blob/main/Twitch%Booster.png" alt="Twitch-Booster-By-Maybe-Ange" title="Twitch Booster Maybe Ange">
+⚠️ Please note that this is a "Safe" version, with no formatting or manipulation of the Windows registry or your settings. It is a "Visual" version.
 
-<br>
-
-Please note that this is a "Safe" version, with no formatting or manipulation of the Windows registry or your settings. It is a "Visual" version.
 ## History 🖼️
 
-The Twitch Booster virus was created in 2016 by members of the jeuxvideo.com forum, primarily in the 18-25 section. This malware targeted Twitch streamers' PCs, especially those of young users. It spread through coordinated raids, where multiple users would infect victims' computers to provoke dramatic reactions.
+The Twitch Booster virus was created in 2016 by members of the <a href="https://www.jeuxvideo.com">jeuxvideo.com</a> forum, primarily in the 18-25 section. This malware targeted Twitch streamers' PCs, especially those of young users. It spread through coordinated raids, where multiple users would infect victims' computers to provoke dramatic reactions.
 
 Upon launching, the virus triggered several effects: a voice would play, mouse clicks were reversed, the wallpaper would change, a "Melter" effect appeared, and numerous insulting pop-ups flooded the screen. Once the "show" ended, the PC was formatted, and all personal data was lost. The only option left was to reinstall Windows.
 ## Installation 💻
