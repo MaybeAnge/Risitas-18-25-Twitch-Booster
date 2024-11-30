@@ -2,7 +2,7 @@
   <img src="https://github.com/MaybeAnge/Images/blob/main/Twitch%20Booster.png"
 </p>
 
-⚠️ Please note that this is a "Safe" version, with no formatting or manipulation of the Windows registry or your settings. It is a "Visual" version.
+⚠️ Please note that this is a "Safe" version, with no formatting or manipulation of the Windows registry or your settings. It is a "Visual" version. ⚠️
 
 ## History 🖼️
 
