@@ -1,0 +1,1 @@
+wscript.exe "resources\invisible.vbs" "start.bat"

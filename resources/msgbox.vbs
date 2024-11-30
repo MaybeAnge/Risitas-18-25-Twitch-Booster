@@ -1,0 +1,1 @@
+msgbox "LE 18-25 T'A BIEN BAISER LE FION PUTAIN DE GROS FILS DE PUTE", vbOKOnly + vbSystemModal + vbCritical, "L'elite de la nation"
