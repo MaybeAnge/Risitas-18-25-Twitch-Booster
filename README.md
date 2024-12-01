@@ -34,8 +34,8 @@ Please note that this is a "Safe" version, with no formatting or manipulation of
 Code and .sln in the "files" folder.
 
 ```bash
-  Twitch Booster.exe: https://www.virustotal.com/gui/file/abc580ebbf74fb6329cc90895bbf13f13eaa33c25842a317105a24e908e76746
-  WindowsMelter.exe: https://www.virustotal.com/gui/file/fdee2aed086d5fe4ca3eea0ab58f240ab9b2d505fe6053c554fb6ff46c818352
+  Twitch Booster.exe: https://www.virustotal.com/gui/file/73c0979dd3738bc9723103c86dd0e478a44a798ccd06ae3a39e5a8e58af81267
+  WindowsMelter.exe: https://www.virustotal.com/gui/file/af93826974adc731756487a595b630f1c7df81d8dd4e41572c54603472593e72
 ```
 
 ## WARNING ⚠️
