@@ -31,6 +31,8 @@ Please note that this is a "Safe" version, with no formatting or manipulation of
 
 ## VirusTotal For Twitch Booster.exe And WindowsMelter.exe
 
+Code and .sln in the "files" folder.
+
 ```bash
   Twitch Booster.exe: https://www.virustotal.com/gui/file/abc580ebbf74fb6329cc90895bbf13f13eaa33c25842a317105a24e908e76746
   WindowsMelter.exe: https://www.virustotal.com/gui/file/fdee2aed086d5fe4ca3eea0ab58f240ab9b2d505fe6053c554fb6ff46c818352
