@@ -18,7 +18,6 @@ Install Project
   Or clone this repository: https://github.com/MaybeAnge/Risitas-18-25-Twitch-Booster.git
 ```
 
-
 ## Features 🪶
 
 Please note that this is a "Safe" version, with no formatting or manipulation of the Windows registry or your settings. It is a "Visual" version.
@@ -29,10 +28,19 @@ Please note that this is a "Safe" version, with no formatting or manipulation of
 - Shutdown of the PC > 300s.
 - Original music starts.
 - Spam of pop-ups.
+
+## VirusTotal For Twitch Booster.exe And WindowsMelter.exe
+
+```bash
+  Twitch Booster.exe: https://www.virustotal.com/gui/file/abc580ebbf74fb6329cc90895bbf13f13eaa33c25842a317105a24e908e76746
+  WindowsMelter.exe: https://www.virustotal.com/gui/file/fdee2aed086d5fe4ca3eea0ab58f240ab9b2d505fe6053c554fb6ff46c818352
+```
+
 ## WARNING ⚠️
 
 Please note that this type of script can cause issues on your operating systems.
 We recommend running it in an environment like VirtualBox or VMware. Just because the virus is labeled "Safe," it doesn't mean you should run it recklessly. I will not be responsible for your actions.
+
 ## License 🧾
 
 © 2024 Maybe Ange and Maybe Ange™ Corporation. All rights reserved.
