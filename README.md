@@ -43,18 +43,4 @@ Code and .sln in the "files" folder.
 Please note that this type of script can cause issues on your operating systems.
 We recommend running it in an environment like VirtualBox or VMware. Just because the virus is labeled "Safe," it doesn't mean you should run it recklessly. I will not be responsible for your actions.
 
-## License 🧾
-
-© 2024 Maybe Ange and Maybe Ange™ Corporation. All rights reserved.
-
-By using this script, you agree to the following terms and conditions:
-
--  Modification Rights: You may modify this script for personal use only. Any modifications must not be shared or distributed in any form.
-
-- Distribution Restrictions: Republishing, redistributing, or sharing the original or modified versions of this script in any public or private forum is strictly prohibited without express written permission from Maybe Ange or Maybe Ange™ Corporation.
-
-- Copyright and License: This script is registered with the DMCA and is protected under applicable copyright laws. You are granted a limited, non-transferable license to use the script for personal, non-commercial purposes only.
-
-- Liability: Maybe Ange and Maybe Ange™ Corporation are not responsible for any damage caused by the use, modification, or distribution of this script. Use at your own risk.
-
 Termination of License: Any violation of the above terms may result in the immediate termination of your license to use the script, and you will be required to cease using, modifying, or distributing it.
